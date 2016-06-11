@@ -1,2 +1,2 @@
-This app is still experimental but hopefully will be useful
+MAIL This app is still experimental but hopefully will be useful
 END
